@@ -1,8 +1,11 @@
 # DungBuild
 Check <a href="https://github.com/Zenodeon/DungBuild/releases">Release</a> 
 
+Note : Player Input will not be Arrurate while world generates.
+
 Press Alt + F4 To Exit While In Game, lol
 WSAD , Sprint | Controls
+" ` " or " ~ " To Drop down after the world Generates.
 
 InGame Shots
 
